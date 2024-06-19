@@ -1,1 +1,1 @@
-print('Hello')# изменил
+print('Hello')
